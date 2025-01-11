@@ -1,0 +1,16 @@
+{
+  "name": "randome-img",
+  "version": "1.0.0",
+  "description": "tam bende anlamadım ama sanırım rasgele resim verecek hayırlısı bakam",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
